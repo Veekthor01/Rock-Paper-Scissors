@@ -83,7 +83,7 @@ function Game() {
 
   return (
     <div className={styles.container}>
-      <h1 style={{ fontSize: 48, marginTop: 0 }}>Rock Paper Scissors</h1>
+      <h1 classname={styles.header}>Rock Paper Scissors</h1>
       <div className={styles.choices}>
         {CHOICES.map((choice) => (
           <button className={styles.button}
