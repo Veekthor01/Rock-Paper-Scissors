@@ -7,17 +7,20 @@
 * Store your scores in local storage
 
 ### Installation
-#### To install the rock paper scissors game, clone or download the repository and run the following command:
+#### To install the rock paper scissors game, clone or download the repository and follow these steps:
+Change into the project directory: e.g
+```
+cd rock-paper-scissors
+```
+Install the required dependencies:
 ```
 npm install
 ```
-#### Once the dependencies have been installed, you can start the development server by running the following command:
+Once the dependencies have been installed, you can start the development server by running the following command:
 ```
 npm run dev
 ```
 The development server will start at http://localhost:5173. You can open this URL in your web browser to view the rock paper scissors game.
 Check about section for live site of the app
 
-### License
-
-#### MIT License.
+### Licensed by MIT
